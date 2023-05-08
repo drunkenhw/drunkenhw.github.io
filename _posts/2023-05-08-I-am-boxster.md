@@ -3,9 +3,10 @@ title:  "Hello world"
 excerpt: "나는 박스터다."
 
 categories:
-  - Blog
+  - 회고
 tags:
-  - Blog
+  - 회고
+  - java
 last_modified_at: 2023-05-08T20:46:00-05:00
 ---
 
