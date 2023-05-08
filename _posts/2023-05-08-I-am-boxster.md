@@ -13,7 +13,7 @@ last_modified_at: 2023-05-08T20:46:00-05:00
 hello world 
 I'm **boxster**
 
-```mermaid
+~~~mermaid
 flowchart 
     A[Christmas] -->|Get money| B(Go shopping)
     B --> C{Let me think}
@@ -21,7 +21,7 @@ flowchart
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
   
-```
+~~~
 
 ```java
 public class Boxster{
