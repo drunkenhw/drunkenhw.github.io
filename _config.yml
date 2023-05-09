@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "Boxster's under the hood"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "박스터"
-description              : "박스터에요"
+name                     : "Boxster"
+description              : "박스터의 기술 블로그"
 values                   :
   header                 :
     image                : "/assets/image/header.jpg"
