@@ -21,6 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "박스터"
 description              : "박스터에요"
+header                   :
+  image                  : "/assets/image/header.jpg"
 url                      : "https://drunkenhw.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "drunkenhw/comments" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -290,6 +292,9 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        image: "/assets/image/header.jpg"
+        overlay_image: "/assets/image/header.jpg"
       layout: single
       author_profile: true
       read_time: true
