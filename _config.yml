@@ -29,8 +29,6 @@ logo                     : "/assets/image/boxster.png" # path of logo image to d
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-header                   :
-  image                  : "/assets/image/header.jpg"
 comments:
   provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -292,9 +290,6 @@ defaults:
       path: ""
       type: posts
     values:
-      header:
-        # image: /assets/image/header.jpg
-        overlay_image: /assets/image/header.jpg
       layout: single
       author_profile: true
       read_time: true
