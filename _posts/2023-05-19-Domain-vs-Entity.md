@@ -3,9 +3,9 @@ title:  "Domain vs Entity"
 excerpt: "Domain과 Entity의 차이"
 
 categories:
-  - java
+  - Java
 tags:
-  - java
+  - Java
 last_modified_at: 2023-05-19T00:29:00-05:00
 ---
 
