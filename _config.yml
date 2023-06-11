@@ -46,7 +46,6 @@ comments:
   giscus:
     data-repo: "drunkenhw/comments"
     data-repo-id: "R_kgDOJgRG1w"
-    data-category: "Comments"
     data-category-id: "DIC_kwDOJgRG184CWWBL"
     data-mapping: "pathname"
     data-strict: "0"
