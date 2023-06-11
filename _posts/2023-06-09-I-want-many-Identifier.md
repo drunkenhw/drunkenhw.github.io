@@ -7,7 +7,7 @@ categories:
 tags:
   - Java
   - Identifier
-last_modified_at: 2023-05-25T11:14:00-05:00
+last_modified_at: 2023-06-09T11:14:00-05:00
 ---
 
 # 식별자란,
