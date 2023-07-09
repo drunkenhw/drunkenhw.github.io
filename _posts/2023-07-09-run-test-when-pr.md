@@ -210,7 +210,7 @@ Test가 실패하는 Pull Request가 Merge 되는 일은 절대로 없어야 합
 
 그리고 사진과 같이 **Require deployments to succeed before merging** 속성을 클릭합니다. 그리고 아래와 같이 어떤 환경을 적용할 것인지 선택할 수 있습니다.
 
-이 속성은 해당 배포가 성공해야 merge 할 수 있도록 브랜치를 보호하는 기능입니다.
+이 속성은 해당 Workflow의 Job이 성공해야 merge 할 수 있도록 브랜치를 보호하는 기능입니다.
 
 그리고 저희는 frontend와 backend Job의 환경을 둘 다 test라는 이름으로 정의했기 때문에 하나의 environment만 선택해도 둘 다 적용되는 효과를 볼 수 있습니다.
 ![branch rule](https://github.com/car-ffeine/car-ffeine.github.io/assets/106640954/02be4679-56a2-4e47-ae01-b7025f8778a4)
