@@ -3,10 +3,9 @@ title:  "식별자가 많았으면 좋겠어요?"
 excerpt: "식별자를 어떤 것으로 하는 게 좋을까"
 
 categories:
-  - Java
+  - java
 tags:
-  - Java
-  - Identifier
+  - java
 last_modified_at: 2023-06-09T11:14:00-05:00
 ---
 

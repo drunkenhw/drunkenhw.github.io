@@ -3,9 +3,9 @@ title: 'JPA에서 ID가 있는 Entity에 대해 save 시에 select 쿼리가 나
 excerpt: "그리고 그 문제를 해결하기"
 
 categories:
-  - JPA
+  - jpa
 tags:
-  - JPA
+  - jpa
 last_modified_at: 2023-07-09T19:14:00-05:00
 ---
 

@@ -3,11 +3,11 @@ title:  "Pull Request 시 자동으로 테스트 실행하기"
 excerpt: "Pull Request 시 자동으로 테스트 실행하기"
 
 categories:
-  - Java
+  - java
 tags:
-  - Github
-  - Github Actions
-  - Test
+  - github
+  - github actions
+  - ci
 last_modified_at: 2023-07-09T19:14:00-05:00
 ---
 ## Pull Request시 자동으로 test를 실행하면 좋은 점
